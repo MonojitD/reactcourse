@@ -7,6 +7,7 @@ import Menu from './componentes/MenuComponent';
 import "./App.css";
 import { DISHES } from './shared/dishes';
 import { Component } from "react";
+import DishDetail from "./componentes/DishdetailComponent";
 
 class App extends Component {
 
